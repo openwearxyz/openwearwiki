@@ -4,9 +4,9 @@ sidebar_position: 2
 
 Before starting with OpenWear, you need to prepare the environment for writing code. OpenWear Core supports programming with both Arduino and MicroPython, so you can choose the language you are familiar with to write your code.
 
-# Preparing the Programming Environment
+## Preparing the Programming Environment
 
-## Using Arduino
+### Using Arduino
 
 To write code with the Arduino IDE, you first need to download and install the Arduino IDE. If you have not yet installed the Arduino IDE, please visit the [official Arduino website](https://www.arduino.cc/en/software) for download and installation. After installation, visit the [OpenWear GitHub repository](https://github.com/anxndsgn/OpenWear) and download the source code (click `Code -> Download ZIP`). After extracting, you will find a folder named `Arduino Board ESP32 Variants`.
 
@@ -32,7 +32,7 @@ Copy the `openwear_pico` folder from the `Arduino Board ESP32 Variants` folder i
 
 ![](https://raw.githubusercontent.com/anxndsgn/PicGo/main/20231208025000.png)
 
-## Using MicroPython
+### Using MicroPython
 
 For users of [MicroPython](https://micropython.org/), please use [Thonny](https://thonny.org/) to write and flash the code. OpenWear provides development boards with MicroPython firmware. If your development board is currently using the Arduino IDE, please flash the firmware first. You can use Thonny to flash the firmware, and the firmware flashing tutorial is [here](https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/#:~:text=Flashing%20MicroPython%20Software). For flashing code with Thonny, refer to [here](https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/).
 
