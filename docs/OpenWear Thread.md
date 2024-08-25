@@ -16,6 +16,12 @@ Thread是用来连接Core与Module的连接线。Thread采用了O型连接器与
 
 ![image-20240814183242586](https://raw.githubusercontent.com/openwearxyz/PicGo/main/image-20240814183242586.png)
 
+:::tip
+
+我们发现此种连接方式可能会存在连接不稳定的问题，我们正在寻找新的快速连接方法。Stay tuned!
+
+:::
+
 ## 制作Thread
 
 在此节中，我们指导你如何定制所需长度的Thread。

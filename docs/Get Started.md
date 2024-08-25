@@ -8,9 +8,9 @@ sidebar_position: 2
 
 ### 使用 Arduino
 
-要使用 Arduino IDE 编写代码，你首先需要下载并安装 Arduino IDE。如果你尚未安装 Arduino IDE，请访问 [Arduino 官网](https://www.arduino.cc/en/software) 进行下载安装。安装完成后，访问 [OpenWear GitHub 仓库](https://github.com/anxndsgn/OpenWear) 并下载源码（点击 `Code -> Download ZIP`），解压后你将找到名为 `Arduino Board ESP32 Variants` 的文件夹。
+要使用 Arduino IDE 编写代码，你首先需要下载并安装 Arduino IDE。如果你尚未安装 Arduino IDE，请访问 [Arduino 官网](https://www.arduino.cc/en/software) 进行下载安装。安装完成后，访问 [OpenWear GitHub 仓库](https://github.com/anxndsgn/OpenWear) 并下载源码（点击 `Code -> Download ZIP`），解压后你将找到名为 `software/Arduino Board ESP32 Variants` 的文件夹。
 
-![](https://raw.githubusercontent.com/anxndsgn/PicGo/main/20231208023145.png?token=AOQBL6N3VDFEUIHC6G5VPDTFOIH5A)
+![image-20240826011741489](https://raw.githubusercontent.com/openwearxyz/PicGo/main/image-20240826011741489.png)
 
 安装 IDE 后，下一步是安装 ESP32 开发板支持包。
 

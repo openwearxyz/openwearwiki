@@ -8,9 +8,9 @@ Before starting with OpenWear, you need to prepare the environment for writing c
 
 ### Using Arduino
 
-To write code with the Arduino IDE, you first need to download and install the Arduino IDE. If you have not yet installed the Arduino IDE, please visit the [official Arduino website](https://www.arduino.cc/en/software) for download and installation. After installation, visit the [OpenWear GitHub repository](https://github.com/anxndsgn/OpenWear) and download the source code (click `Code -> Download ZIP`). After extracting, you will find a folder named `Arduino Board ESP32 Variants`.
+To write code with the Arduino IDE, you first need to download and install the Arduino IDE. If you have not yet installed the Arduino IDE, please visit the [official Arduino website](https://www.arduino.cc/en/software) for download and installation. After installation, visit the [OpenWear GitHub repository](https://github.com/anxndsgn/OpenWear) and download the source code (click `Code -> Download ZIP`). After extracting, you will find a folder named `software/Arduino Board ESP32 Variants`.
 
-![](https://raw.githubusercontent.com/anxndsgn/PicGo/main/20231208023145.png?token=AOQBL6N3VDFEUIHC6G5VPDTFOIH5A)
+![image-20240826011741489](https://raw.githubusercontent.com/openwearxyz/PicGo/main/image-20240826011741489.png)
 
 After installing the IDE, the next step is to install the ESP32 development board support package.
 
