@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # OpenWear 模块
 
-![alt text](/static/img/image.png)
+![alt text](/img/image.png)
 
 ## 概览
 
@@ -28,7 +28,7 @@ sidebar_position: 4
 
 模块同样采用了圆形 PCB 设计，直径为 5cm。所有的模块均有 6 个引脚，并在每个引脚处标有相应的引脚名称。一般来说可以分为两种：一种是只需连接电源与地的模块，另一种除了电源与地，还需要连接一个或两个信号引脚。
 
-![alt text](/static/img/module.png)
+![alt text](/img/module.png)
 
 模块底部使用胶水粘有一个磁铁用于快速固定在衣物上，相应的磁吸固定扣可以在网络上很容易买到，例如[这个](https://amzn.asia/d/8wcJzql)。
 
